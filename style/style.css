@@ -8,6 +8,7 @@
 body {
   font-family: "Merriweather", serif;
   font-family: "Inter", sans-serif;
+  font-family: "Merriweather", serif;
 }
 
 .heading-img {
@@ -42,6 +43,7 @@ body {
   font-family: Inter;
   font-size: 88px;
   font-weight: 700;
+  margin-top: 120px;
   margin-bottom: 93px;
 }
 
@@ -51,6 +53,7 @@ body {
   font-family: Inter;
   font-size: 24px;
   font-weight: 500;
+  margin-bottom: 16px;
 }
 
 .offer-text2 {
@@ -59,8 +62,78 @@ body {
   font-family: Inter;
   font-size: 48px;
   font-weight: 700;
+  margin-bottom: 48px;
 }
 
 .offer-img {
   margin: 0px 250px;
+}
+
+/* Party Section  */
+
+.party-img {
+  background-image: url("../images/Vectorrr.png");
+  background-position: top center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-size: 1150px;
+  height: 600px;
+  margin: 120px 80px;
+  border-radius: 16px;
+}
+
+/* column 01 */
+
+.column1 {
+  margin-left: 80px;
+}
+.party-text {
+  color: #fff;
+  font-family: Merriweather;
+  font-size: 64px;
+  font-weight: 900;
+  line-height: 60px;
+  letter-spacing: 7.04px;
+  width: 600px;
+  margin-bottom: 24px;
+}
+
+.party-description {
+  color: rgba(255, 255, 255, 0.8);
+  font-family: Inter;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30px;
+  width: 697px;
+  margin-bottom: 48px;
+}
+
+.btn-party {
+  color: #fff;
+  background-color: #070211;
+  border: 1px solid white;
+  text-align: center;
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* column02 */
+
+.column2 {
+  background-image: url("../images/Group_70-removebg-preview.png");
+  background-size: 245px;
+  background-repeat: no-repeat;
+  width: 319.83px;
+  height: 464.662px;
+  opacity: 92%;
+  margin-right: 53px;
+  margin-top: 76px;
+}
+
+.header-container3 {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
 }
