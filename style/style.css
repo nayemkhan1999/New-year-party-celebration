@@ -137,3 +137,115 @@ body {
   align-items: center;
   justify-content: space-around;
 }
+
+/* Address Section  */
+
+.header-container4 {
+  width: 1150px;
+  height: 600px;
+  margin: 120px 80px;
+  border-radius: 16px;
+  background-color: #ffeeee;
+}
+
+.address {
+  color: #070211;
+  font-family: Inter;
+  font-size: 32px;
+  font-weight: 600;
+  line-height: 56px;
+  text-transform: capitalize;
+  text-align: center;
+}
+
+.sstyle {
+  color: #f00;
+  text-align: center;
+  font-family: Inter;
+  font-size: 32px;
+  font-weight: 600;
+  line-height: 56px;
+  text-transform: capitalize;
+}
+
+.btn-address {
+  border-radius: 8px;
+  background: #f00;
+  padding: 16px 32px;
+  color: #fff;
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin-top: 48px;
+  border: none;
+}
+
+.address-item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding-top: 100px;
+}
+/* Main Section Style Starts Hare */
+
+.main-container1 {
+  width: 1150px;
+  height: 600px;
+  margin: 120px 80px;
+  border-radius: 16px;
+  background-color: #555;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.main-column1 {
+}
+
+.new-text1 {
+  color: #f00;
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 500;
+  margin-bottom: 16px;
+}
+
+.new-text2 {
+  color: #070211;
+  font-family: Merriweather;
+  font-size: 48px;
+  font-weight: 900;
+  text-transform: capitalize;
+  margin-bottom: 22px;
+}
+
+.new-description {
+  color: rgba(7, 2, 17, 0.6);
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 400;
+  width: 393px;
+}
+
+/* main-column2 */
+.main-column2 {
+}
+
+.new-text3 {
+  color: #f00;
+  font-family: Inter;
+  font-size: 48px;
+  font-weight: 700;
+  margin-bottom: 16px;
+}
+
+.new-description1 {
+  color: rgba(7, 2, 17, 0.6);
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 400;
+  width: 276px;
+  margin-bottom: 43px;
+}
