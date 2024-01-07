@@ -1,0 +1,66 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Google Font Style link */
+body {
+  font-family: "Merriweather", serif;
+  font-family: "Inter", sans-serif;
+}
+
+.heading-img {
+  background-image: url("../images/Banner\ Image.png");
+  background-position: top center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-size: 1150px;
+  height: 600px;
+  margin: 50px 80px;
+  border-radius: 16px;
+}
+
+.header-text1 {
+  color: #fff;
+  text-align: center;
+  font-size: 32px;
+  font-weight: 400;
+  padding-top: 60px;
+}
+
+.header-text2 {
+  color: rgb(155, 150, 150);
+  font-size: 70px;
+  font-weight: 900;
+  text-align: center;
+}
+
+.offer-text {
+  color: #f00;
+  text-align: center;
+  font-family: Inter;
+  font-size: 88px;
+  font-weight: 700;
+  margin-bottom: 93px;
+}
+
+.offer-description {
+  color: #f00;
+  text-align: center;
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 500;
+}
+
+.offer-text2 {
+  color: #070211;
+  text-align: center;
+  font-family: Inter;
+  font-size: 48px;
+  font-weight: 700;
+}
+
+.offer-img {
+  margin: 0px 250px;
+}
