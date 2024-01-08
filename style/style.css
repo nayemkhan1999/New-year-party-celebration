@@ -340,3 +340,81 @@ body {
   left: 85px;
   opacity: 90%;
 }
+
+/* Div 03 */
+.main-container3 {
+  width: 1150px;
+  height: 1063px;
+  margin: 120px 80px;
+  border-radius: 16px;
+  background-color: #fff;
+}
+
+.last-text1 {
+  color: #f00;
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 500;
+  margin-bottom: 16px;
+}
+
+.last-text2 {
+  color: #070211;
+  font-family: Merriweather;
+  font-size: 48px;
+  font-weight: 900;
+  text-transform: capitalize;
+  margin-bottom: 22px;
+}
+
+.last-description {
+  color: rgba(7, 2, 17, 0.6);
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 400;
+  width: 896px;
+}
+
+/* Gallery Section starts Hare */
+.img-size {
+  margin-top: 48px;
+  width: 384px;
+  height: 409px;
+  padding: 10px;
+  margin-left: -4px;
+  transition: 0.5s;
+  cursor: pointer;
+}
+
+.img-size:hover {
+  box-shadow: 5px 5px 10px 5px #555;
+  border-radius: 15px;
+  transform: calc(1.1);
+}
+
+.img-size1 {
+  padding-top: 10px;
+  width: 384px;
+  height: 409px;
+  padding: 10px;
+  margin-left: -4px;
+  transition: 0.5s;
+  cursor: pointer;
+}
+
+.img-size1:hover {
+  box-shadow: 5px 5px 10px 5px #555;
+  border-radius: 15px;
+  transition: calc(1.1);
+}
+
+/* Gallery Section Ends */
+
+/* 4th Div */
+.main-container4 {
+  width: 1150px;
+  height: 600px;
+  margin: 120px 80px;
+  border-radius: 16px;
+  background-color: #aaa;
+}
