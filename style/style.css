@@ -263,6 +263,11 @@ body {
 
 /* Div 02 */
 .main-container2 {
+  width: 1150px;
+  height: 933px;
+  margin: 120px 80px;
+  border-radius: 16px;
+  background-color: #fff;
 }
 
 .holi-text1 {
@@ -270,6 +275,8 @@ body {
   font-family: Inter;
   font-size: 24px;
   font-weight: 500;
+  margin-bottom: 16px;
+  text-align: center;
 }
 
 .holi-text2 {
@@ -277,6 +284,8 @@ body {
   font-family: Merriweather;
   font-size: 72px;
   font-weight: 900;
+  margin-bottom: 28px;
+  text-align: center;
 }
 
 .holi-sp {
@@ -293,5 +302,41 @@ body {
   font-family: Inter;
   font-size: 20px;
   font-weight: 500;
-  width: 1068px;
+  width: 900px;
+  margin-left: 180px;
+}
+
+/* Images section */
+
+.images-section1 {
+  margin-left: 721px;
+  margin-top: 64px;
+}
+
+.images-section2 {
+  margin-top: -4px;
+  width: 1150px;
+}
+
+.bg-img1 {
+  background-image: url("../images/Group\ 44.png");
+  background-position: right center;
+  background-size: cover;
+  width: 270.841px;
+  height: 270.841px;
+  position: absolute;
+  margin-top: 169px;
+  left: 669px;
+}
+
+.bg-img2 {
+  background-image: url("../images/Group\ 75.png");
+  background-position: left bottom;
+  background-size: cover;
+  width: 690px;
+  height: 573px;
+  position: absolute;
+  margin-top: -380px;
+  left: 85px;
+  opacity: 90%;
 }
